@@ -1,6 +1,8 @@
+import pytest
 from random import randint
 
 
+@pytest.mark.benchmark
 def test_random(benchmark):
     @benchmark
     def _():
