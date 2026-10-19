@@ -1,1 +1,2 @@
 contributor
+wizard 1
