@@ -1,2 +1,2 @@
 contributor
-wizard 1
+wizard 2
